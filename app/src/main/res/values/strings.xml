@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="Login">लॉग इन करें</string>
+    <string name="E_mail">ईमेल</string>
+    <string name="Password">पासवर्ड</string>
+    <string name="Mypage">मेरा पन्ना</string>
+</resources>

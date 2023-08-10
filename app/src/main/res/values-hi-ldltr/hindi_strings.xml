@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="Login">Login</string>
+    <string name="E_mail">E-mail</string>
+    <string name="Password">Password</string>
+    <string name="Mypage">My Page</string>
+</resources>
